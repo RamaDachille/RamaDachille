@@ -5,8 +5,6 @@ I successfully completed [Le Wagon](https://www.lewagon.com/)'s intensive bootca
 
 I'm passionate about continual learning and bringing innovative ideas to life. Ready to contribute my skills to the growth and success of an organization.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadachille&label=Profile%20views&color=0e75b6&style=flat" alt="ramadachille" /> </p>
-
 - 🔭 I’m currently working on **my personal portfolio.**
 
 - 🌱 I’m currently learning **React.**
@@ -66,3 +64,4 @@ I'm passionate about continual learning and bringing innovative ideas to life. R
   </a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadachille&label=Profile%20views&color=0e75b6&style=flat" alt="ramadachille" /> </p>
