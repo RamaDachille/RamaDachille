@@ -5,7 +5,9 @@ I successfully completed [Le Wagon](https://www.lewagon.com/)'s intensive bootca
 
 I'm passionate about continual learning and bringing innovative ideas to life. Ready to contribute my skills to the growth and success of an organization.
 
-- 🔭 I’m currently working on **my personal portfolio.**
+- 🔭 I’m open for **job** opportunities and **collaboration** ideas.
+
+- 💻 I’m currently working on **my personal portfolio.**
 
 - 🌱 I’m currently learning **React.**
 
