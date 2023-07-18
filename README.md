@@ -9,7 +9,7 @@ I'm passionate about continual learning and bringing innovative ideas to life. R
 
 - 🌱 I’m currently learning **React.**
 
-- 📫 How to reach me **dachille108@gmail.com** or [LinkedIn](https://www.linkedin.com/in/rama-dachille/)
+- 📫 How to reach me: **dachille108@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/rama-dachille/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
