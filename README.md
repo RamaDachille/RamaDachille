@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rama</h1>
-<h3 align="center">I'm a full-stack web developer with several years of self-employed experience.
+<h5 align="center">I'm a full-stack web developer with several years of self-employed experience.
 
 I successfully completed Le Wagon's intensive bootcamp, which helped me develop a strong foundation in modern frameworks and languages.
 
-I'm passionate about continual learning and bringing innovative ideas to life. Ready to contribute my skills to the growth and success of an organization.</h3>
+I'm passionate about continual learning and bringing innovative ideas to life. Ready to contribute my skills to the growth and success of an organization.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadachille&label=Profile%20views&color=0e75b6&style=flat" alt="ramadachille" /> </p>
 
