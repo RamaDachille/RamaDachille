@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rama</h1>
 I'm a Full Stack web developer with several years of self-employed experience. 
 
-I successfully completed [Le Wagon](https://www.lewagon.com/)'s intensive bootcamp, which helped me develop a strong foundation in modern frameworks and languages.
+I successfully completed [Le Wagon](https://www.lewagon.com/)'s intensive bootcamp, which helped me develop a strong foundation in modern frameworks and languages, enabling me to build web applications and navigate intricate programming challenges.
 
-I'm passionate about continual learning and bringing innovative ideas to life. Ready to contribute my skills to the growth and success of an organization.
+I'm passionate about continual learning and bringing innovative ideas to life. I am ready to contribute my skills to the growth and success of an organization.
 
 - 🔭 I’m open for **job** opportunities and **collaboration** ideas.
 
