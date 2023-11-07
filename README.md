@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rama</h1>   
-I'm a Full Stack web developer with several years of self-employed experience.    
+I'm a Full Stack software developer with several years of self-employed experience.    
 
 I successfully completed [Le Wagon](https://www.lewagon.com/)'s intensive bootcamp, which helped me develop a strong foundation in modern frameworks and languages, enabling me to build web applications and navigate intricate programming challenges.
   
