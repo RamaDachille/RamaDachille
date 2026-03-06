@@ -5,9 +5,9 @@ I successfully completed [Le Wagon](https://www.lewagon.com/)'s intensive bootca
   
 I'm passionate about continual learning and bringing innovative ideas to life. I am ready to contribute my skills to the growth and success of an organization. 
  
-- 🔭 I’m open for **job** opportunities and **collaboration** ideas. 
-- 💻 I’m currently working on **my personal portfolio.**
-- 🌱 I’m currently learning **React.**
+- 🔭 I’m open for **collaboration** ideas. 
+- 💻 I’m currently working on **my Startup.**
+- 🌱 I’m currently learning **AI Automations, AI Agents, LLMs.**
 - 📫 How to reach me: **dachille108@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/rama-dachille/)
 
 
